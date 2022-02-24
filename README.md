@@ -7,7 +7,7 @@ sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.
 ```
 - Copy nvim directory in ~/.config
 - Open nvim
-- Install :PlugInstall . Enjoy :)
+- Run :PlugInstall . Enjoy :)
 <p>&nbsp;</p>
 
 <img src="https://raw.githubusercontent.com/discover02/neovim-config/master/scr.png"></img>
